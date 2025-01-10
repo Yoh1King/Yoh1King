@@ -1,5 +1,6 @@
 <h1 align="center">hey there 😸</h1>
-<ul>
+<ul align="left">
+  
 <li>🥺 Intermediate English, I'm still learning.</li> 
 <li>🔭 I'm not working on any projects at the moment.</li> 
 <li> 🌱 I'm currently learning <strong>C# and HTML</strong>. 
