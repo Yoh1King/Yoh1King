@@ -1,7 +1,10 @@
 <h1 align="center">hey there 😸</h1>
-
-<p align="left">-🥺 Intermediate English, I'm still learning.<br>-🔭 I'm not working on any projects at the moment.<br>-🌱 I'm currently learning C# and HTML.<br>-😄 Pronouns: He/They/She.</p>
-
+<ul>
+<li>🥺 Intermediate English, I'm still learning.</li> 
+<li>🔭 I'm not working on any projects at the moment.</li> 
+<li> 🌱 I'm currently learning C# and HTML. 
+<li>😄 Pronouns: He/They/She.</li>
+</ul>
 ###
 
 <div align="left">
