@@ -1,4 +1,4 @@
-## Hi there 👋
+## Oiii! Meu nome é Eduarda Yohana, mas pode me chamar de Yoh! 😸
 
 <!--
 **Yoh1King/Yoh1King** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
