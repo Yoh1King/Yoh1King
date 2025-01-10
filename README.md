@@ -1,5 +1,9 @@
 ## Oiii! Meu nome é Eduarda Yohana, mas pode me chamar de Yoh! 😸
 
+  <p>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Yoh1King&layout=compact&theme=dark" align="center"></a></p>
+</p>
+
 <!--
 **Yoh1King/Yoh1King** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
