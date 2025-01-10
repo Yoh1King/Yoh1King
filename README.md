@@ -1,10 +1,11 @@
 <h1 align="center">hey there 😸</h1>
-<ul align="left">
+<ul>
   
 <li>🥺 Intermediate English, I'm still learning.</li> 
 <li>🔭 I'm not working on any projects at the moment.</li> 
 <li> 🌱 I'm currently learning <strong>C# and HTML</strong>. 
 <li>😄 Pronouns: <strong>He/They/She</strong>.</li>
+
 </ul>
 
 
@@ -14,23 +15,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yoh1King&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
 
 
 
 
 
-<!--
-**Yoh1King/Yoh1King** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
