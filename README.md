@@ -2,10 +2,10 @@
 <ul>
 <li>🥺 Intermediate English, I'm still learning.</li> 
 <li>🔭 I'm not working on any projects at the moment.</li> 
-<li> 🌱 I'm currently learning C# and HTML. 
-<li>😄 Pronouns: He/They/She.</li>
+<li> 🌱 I'm currently learning <strong>C# and HTML</strong>. 
+<li>😄 Pronouns: <strong>He/They/She</strong>.</li>
 </ul>
-###
+
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Yoh1King&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
