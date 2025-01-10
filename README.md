@@ -1,3 +1,5 @@
+<h1>hey there 😸</h1>
+
 <p align="left">-🥺 Intermediate English, I'm still learning.<br>-🔭 I'm not working on any projects at the moment.<br>-🌱 I'm currently learning C# and HTML.<br>-😄 Pronouns: He/They/She.</p>
 
 ###
@@ -10,9 +12,9 @@
 
 ###
 
-<p align="left">Hello World!!</p>
 
-###
+
+
 
 <!--
 **Yoh1King/Yoh1King** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
