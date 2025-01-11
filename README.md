@@ -17,8 +17,7 @@
 </div>
 
 
-<br clear="both">
-<img src="https://raw.githubusercontent.com/Yoh1King/Yoh1King/output/snake.svg" alt="Snake animation" />
+
 
 
 
