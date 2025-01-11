@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 😸</h1>
-<h2 align="center">Welcome to my repository, my name is Yohana, but you can call me Yoh.</h2>
+<h2 align="center">Welcome to my repository, my name is Eduarda Yohana, but you can call me Yoh.</h2>
 
 
  ![icegif-956](https://github.com/user-attachments/assets/606eb44e-48a7-4e8a-993e-b65344b9e56f)
