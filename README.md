@@ -1,6 +1,10 @@
 <h1 align="center">Hi there 😸</h1>
 <h2 align="center">Welcome to my repository, my name is Eduarda Yohana, but you can call me Yoh.</h2>
-<p align="left">About me:</p> 
+
+
+ ![icegif-956](https://github.com/user-attachments/assets/606eb44e-48a7-4e8a-993e-b65344b9e56f)
+
+<p align="left">About me:</p>
 <ul>
 <li>📌 portuguese and english</li>
 <li>🥺 Intermediate English, I'm still learning.</li> 
@@ -17,6 +21,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yoh1King&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
  
 </div>
+
+
 
 
 
