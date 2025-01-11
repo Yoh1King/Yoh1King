@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 😸</h1>
 <h2 align="center">Welcome to my repository, my name is Eduarda Yohana, but you can call me Yoh.</h2>
-<h3 align="left">About me:</h3> <br>
+<p align="left">About me:</p> 
 <ul>
 <li>📌 portuguese and english</li>
 <li>🥺 Intermediate English, I'm still learning.</li> 
