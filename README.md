@@ -15,6 +15,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yoh1King&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+<div align= "center">
+<img src="https://raw.githubusercontent.com/Yoh1King/Yoh1King/output/snake.svg" alt="Snake animation" />
+
+</div>
+
 
 
 
