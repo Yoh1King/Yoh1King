@@ -2,10 +2,10 @@
 <h2 align="center">Welcome to my repository, my name is Eduarda Yohana, but you can call me Yoh.</h2>
 
 <ul>
-  
+<li>📌 portuguese and english</li>
 <li>🥺 Intermediate English, I'm still learning.</li> 
 <li>🔭 I'm not working on any projects at the moment.</li> 
-<li> 🌱 I'm currently learning <strong>C# and HTML</strong>. 
+<li>🌱 I'm currently learning <strong>C# and HTML</strong>. 
 <li>😄 Pronouns: <strong>He/They/She</strong>.</li>
 
 </ul>
