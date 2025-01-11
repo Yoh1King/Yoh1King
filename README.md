@@ -1,4 +1,4 @@
-<h1 align="center">hey there 😸</h1>
+<h1 align="center">Hi there 😸</h1>
 <h2 align="center">Welcome to my repository, my name is Eduarda Yohana, but you can call me Yoh.</h2>
 
 <ul>
