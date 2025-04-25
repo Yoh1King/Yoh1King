@@ -9,7 +9,7 @@
 <li>📌 portuguese and english</li>
 <li>🥺 Intermediate English, I'm still learning.</li> 
 <li>🔭 I'm not working on any projects at the moment.</li> 
-<li>🌱 I'm currently learning <strong>C# and HTML</strong>. 
+<li>🌱 I'm currently learning <strong>Python, HTML and CSS</strong>. 
 <li>🎨 I also like to draw.</li>
 <li>😄 Pronouns: <strong>He/They/She</strong>.</li>
 
