@@ -1,16 +1,13 @@
-## Hi there 👋
+Olá☕
+Esse é o meu repositório, você pode me chamar de Yoh!
+<div>
+  <img src="![Peace](https://github.com/user-attachments/assets/9b293e6b-0c3c-4a1c-8618-f19ac67f9f4a)">
+</div>
 
-<!--
-**Yoh1King/Yoh1King** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 No momento estou trabalhando em alguns projetos pessoais.
+- 🌱 Estudando Gdscript, Python e Java.
+- 😄 Pronouns: Ela/Ele.
+
+
