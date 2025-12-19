@@ -1,7 +1,7 @@
 
 <div align=center>
-<strong>Olá<img height="20em" src = "https://i.pinimg.com/originals/f0/4b/a9/f04ba908d1744c429505ac5239c35e63.gif"><br>
-Esse é o meu repositório, você pode me chamar de Yoh!</strong>
+<strong><h4>Olá<img height="20em" src = "https://i.pinimg.com/originals/f0/4b/a9/f04ba908d1744c429505ac5239c35e63.gif"><br>
+Esse é o meu repositório, você pode me chamar de Yoh!</h4></strong>
 </div>
 <hr>
 <div align=center>
@@ -24,8 +24,8 @@ Esse é o meu repositório, você pode me chamar de Yoh!</strong>
 <img height="50em" src="https://i.pinimg.com/originals/c0/db/07/c0db073e12c4b10d067c0df422154873.gif">
 </div>
 
-<strong>Ferramentas</strong><br>
-<hr>
+<strong><h2>Ferramentas</h2></strong>
+
 <img height="50em" src="https://i.pinimg.com/1200x/2e/5b/ce/2e5bce1a68e73e76ebcc87e5a01077bc.jpg"><br>
 
 <div align="right">
