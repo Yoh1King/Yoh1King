@@ -1,6 +1,6 @@
 <div align=center>
-Olá☕<br>
-Esse é o meu repositório, você pode me chamar de Yoh!
+<strong>Olá<img height="20em" src = "https://i.pinimg.com/originals/f0/4b/a9/f04ba908d1744c429505ac5239c35e63.gif"><br>
+Esse é o meu repositório, você pode me chamar de Yoh!</strong>
 </div>
 <hr>
 <div align=center>
@@ -15,7 +15,7 @@ Esse é o meu repositório, você pode me chamar de Yoh!
 - 🎨 Quadrinista e futuro desenvolvedor de jogos.
 - 🔭 No momento estou trabalhando em alguns projetos pessoais.
 - 🌱 Estudando Gdscript.
-- 😄 Pronomes: Ela/Ele.
+- 😄 Pronomes: Ele/Ela.
 
 <div align=center>
 <img height="50em" src="https://i.pinimg.com/originals/c0/db/07/c0db073e12c4b10d067c0df422154873.gif">
