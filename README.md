@@ -16,8 +16,8 @@ Esse é o meu repositório, você pode me chamar de Yoh!</h4></strong>
 - 🎨 Quadrinista e futuro desenvolvedor de jogos.
 - 🌍 Inglês intermediário 
 - 🔭 No momento estou trabalhando em alguns projetos pessoais.
-- 🌱 Estudando Gdscript.
-- 😄 Pronomes: Ele/Ela.
+- 🌱 Estudando Java.
+- 😄 Pronomes: Ela/Ele.
   
 
 <div align=center>
