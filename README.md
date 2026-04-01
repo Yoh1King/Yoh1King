@@ -13,7 +13,7 @@ Esse é o meu repositório, você pode me chamar de Yoh!</h4></strong>
   <img height="50em" src="https://i.pinimg.com/originals/c0/db/07/c0db073e12c4b10d067c0df422154873.gif">
 </div>
 
-- 🎨 Quadrinista e futuro desenvolvedor de jogos.
+- 🎨 Ilustrador,quadrinista e futuro desenvolvedor de jogos.
 - 🌍 Inglês intermediário 
 - 🔭 No momento estou trabalhando em alguns projetos pessoais.
 - 🌱 Estudando Java.
@@ -26,8 +26,7 @@ Esse é o meu repositório, você pode me chamar de Yoh!</h4></strong>
 
 <strong><h2>Ferramentas</h2></strong>
 
-<img height="50em" src="https://i.pinimg.com/1200x/2e/5b/ce/2e5bce1a68e73e76ebcc87e5a01077bc.jpg"><br>
-
+<img height="50em" src="https://i.pinimg.com/1200x/2e/5b/ce/2e5bce1a68e73e76ebcc87e5a01077bc.jpg"> <img height="60em" src="https://github.com/user-attachments/assets/e3b407ab-dfd5-48c4-b418-ff36fc0762da">
 <div align="right">
 <img height="50em" src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif">
 </div>
